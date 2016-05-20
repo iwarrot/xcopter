@@ -1,0 +1,2 @@
+# xcopter
+Qt quadcopter helper
